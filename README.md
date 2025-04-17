@@ -1,6 +1,6 @@
 <h2 align="left">Olá, seja bem-vindo ao meu GitHub!</h2>
 
-Olá! Sou Ana Maria, tenho 24 anos e estudo Engenharia da Computação na UTFPR. Apaixonada por tecnologia, estou sempre em busca de novos desafios e projetos que me permitam aprender e criar soluções inovadoras em software e hardware.
+Sou Ana Maria, tenho 24 anos e estudo Engenharia da Computação na UTFPR. Apaixonada por tecnologia, estou sempre em busca de novos desafios e projetos que me permitam aprender e criar soluções inovadoras em software e hardware.
 <br>
 <div class="linha" style="display: flex; justify-content: space-between; align-items: center; margin-top: 70px;">
   <div align="center">
