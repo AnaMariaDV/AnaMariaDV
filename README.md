@@ -28,13 +28,7 @@ Sou Ana Maria, tenho 24 anos e estudo Engenharia da Computação na UTFPR. Apai
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/1b/83/dc/1b83dce6c2a59c92d2dfdd14df85c377.gif"  />
 
-###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnaMariaDV&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
 
 <br clear="both">
 
