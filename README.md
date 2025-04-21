@@ -1,7 +1,8 @@
 <h2 align="left">Olá, seja bem-vindo ao meu GitHub!</h2>
 
 ###
-Sou Ana Maria, tenho 24 anos e estudo Engenharia da Computação na UTFPR. Apaixonada por tecnologia, estou sempre em busca de novos desafios e projetos que me permitam aprender e criar soluções inovadoras em software e hardware.
+<p>Sou Ana Maria, tenho 24 anos e estudo Engenharia da Computação na UTFPR. Apaixonada por tecnologia, estou sempre em busca de novos desafios e projetos que me permitam aprender e criar soluções inovadoras em software e hardware.</p>
+
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnaMariaDV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
