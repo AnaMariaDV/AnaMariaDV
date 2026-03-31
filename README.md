@@ -1,13 +1,19 @@
-<h2 align="left">Olá, seja bem-vindo ao meu GitHub!</h2>
+<h2 align="left">Olá, eu sou a Ana Maria 👩‍💻</h2>
 
 ###
-<p>Sou Ana Maria, tenho 24 anos e estudo Engenharia da Computação na UTFPR. Apaixonada por tecnologia, estou sempre em busca de novos desafios e projetos que me permitam aprender e criar soluções inovadoras em software e hardware.</p>
+<p>Tenho 25 anos e sou estudante de Engenharia da Computação na UTFPR e de Gestão da Tecnologia da Informação na Uninter. Sou apaixonada por tecnologia e movida pela curiosidade de entender como as coisas funcionam — desde o desenvolvimento de software até a integração com hardware.
 
-<br>
+Atualmente, venho direcionando meus estudos e interesses para a área de Análise de Requisitos e Gestão de Projetos, buscando desenvolver habilidades que conectem as necessidades do negócio com soluções tecnológicas eficientes. Tenho grande interesse em compreender problemas de forma estruturada, colaborar com equipes e contribuir para a construção de projetos bem planejados e de alto impacto.
+
+Estou sempre em busca de novos desafios, oportunidades de aprendizado e projetos que me permitam evoluir tecnicamente e também em habilidades como comunicação, organização e pensamento estratégico.
+
+Aqui no meu GitHub você vai encontrar projetos, estudos e experimentos que refletem minha jornada na tecnologia.</p>
+
+<!--<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnaMariaDV&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnaMariaDV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+</div>-->
 
 ###
 
